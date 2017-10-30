@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreakyTrader.Data", "FreakyTrader.Data\FreakyTrader.Data.csproj", "{65BEC995-54DF-428B-A18C-EA4C259EA35D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreakyTrader.Business", "FreakyTrader.Business\FreakyTrader.Business.csproj", "{02E7EC56-0C1F-43D5-81D8-1BCC0057D60C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreakyTrader.Console", "FreakyTrader.Console\FreakyTrader.Console.csproj", "{53B64FC1-B13A-43B2-9FD7-1F4EBC5E506B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreakyTrader.Web", "FreakyTrader.Web\FreakyTrader.Web.csproj", "{69148FCF-65A6-4A88-9029-C6DDBE9EF837}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreakyTrader.Ticker", "FreakyTrader.Ticker\FreakyTrader.Ticker.csproj", "{721C75AA-5729-432B-B5E6-9C6735498E42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreakyTrader.Client", "FreakyTrader.Client\FreakyTrader.Client.csproj", "{EF8FB526-6C04-46B4-9CB5-6BBA694BBB40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65BEC995-54DF-428B-A18C-EA4C259EA35D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65BEC995-54DF-428B-A18C-EA4C259EA35D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65BEC995-54DF-428B-A18C-EA4C259EA35D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65BEC995-54DF-428B-A18C-EA4C259EA35D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02E7EC56-0C1F-43D5-81D8-1BCC0057D60C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02E7EC56-0C1F-43D5-81D8-1BCC0057D60C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02E7EC56-0C1F-43D5-81D8-1BCC0057D60C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02E7EC56-0C1F-43D5-81D8-1BCC0057D60C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53B64FC1-B13A-43B2-9FD7-1F4EBC5E506B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53B64FC1-B13A-43B2-9FD7-1F4EBC5E506B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53B64FC1-B13A-43B2-9FD7-1F4EBC5E506B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53B64FC1-B13A-43B2-9FD7-1F4EBC5E506B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69148FCF-65A6-4A88-9029-C6DDBE9EF837}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69148FCF-65A6-4A88-9029-C6DDBE9EF837}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69148FCF-65A6-4A88-9029-C6DDBE9EF837}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69148FCF-65A6-4A88-9029-C6DDBE9EF837}.Release|Any CPU.Build.0 = Release|Any CPU
+		{721C75AA-5729-432B-B5E6-9C6735498E42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{721C75AA-5729-432B-B5E6-9C6735498E42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{721C75AA-5729-432B-B5E6-9C6735498E42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{721C75AA-5729-432B-B5E6-9C6735498E42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF8FB526-6C04-46B4-9CB5-6BBA694BBB40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF8FB526-6C04-46B4-9CB5-6BBA694BBB40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF8FB526-6C04-46B4-9CB5-6BBA694BBB40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF8FB526-6C04-46B4-9CB5-6BBA694BBB40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+{
+  "name": "freaky-trader.web",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "3.3.7",
+    "jquery": "2.2.0",
+    "angular": "1.6.4",
+    "highcharts": "5.0.10",
+    "highcharts-ng": "1.1.0",
+    "angular-signalr-hub": "v1.6.2",
+    "signalr": "v2.2.1",
+    "moment": "2.19.1",
+    "angular-moment": "1.0.1"
+  }
+}

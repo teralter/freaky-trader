@@ -1,0 +1,1 @@
+﻿var app = angular.module('app', ['highcharts-ng', 'angularMoment', 'SignalR']);
