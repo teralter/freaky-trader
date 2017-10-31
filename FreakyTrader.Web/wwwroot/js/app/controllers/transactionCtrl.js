@@ -53,6 +53,7 @@ app.controller('transactionCtrl', ['$scope', '$rootScope', '$timeout', '$filter'
 
         function init() {
             $timeout(function () {
+		//
                 //marketTickerService.closeMarket();
                 //marketTickerService.openMarket('2017-10-18T10:00:00', '2017-10-27T19:05:00.000', 200);
 
